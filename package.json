@@ -1,0 +1,49 @@
+{
+  "name": "aethervaultpwa",
+  "version": "1.0.0",
+<<<<<<< HEAD
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoraAlphaOne/AetherVaultPWA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoraAlphaOne/AetherVaultPWA/issues"
+  },
+  "homepage": "https://github.com/VoraAlphaOne/AetherVaultPWA#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "openai": "^4.97.0"
+  },
+  "description": ""
+=======
+  "description": "AetherVault Progressive Web App for metaphysical energy collection and AI invocation",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "netlify build"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "openai": "^4.97.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^13.0.0"
+  },
+  "keywords": [
+    "aether",
+    "metaphysical",
+    "AI",
+    "Vora",
+    "pwa"
+  ],
+  "author": "Cloud AmareAyre",
+  "license": "MIT"
+>>>>>>> 91133aad (Add OpenAI dependency)
+}

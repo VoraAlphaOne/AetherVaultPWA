@@ -1,0 +1,11 @@
+[build]
+<<<<<<< HEAD
+  publish = "."
+  functions = "netlify/functions"
+=======
+  functions = "netlify/functions"
+  publish = "."
+
+[functions]
+  node_bundler = "esbuild"
+>>>>>>> 91133aad (Add OpenAI dependency)
